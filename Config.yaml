@@ -1,0 +1,19 @@
+DEFAULT:
+  DataPath: "/home/iman/projects/My_Projects/python_projects/Diagnosing_Diabetes/diabetes.csv"
+  sequenceNum: 1
+  sequenceSteps: 3
+  sequence_PSOPop: 5
+  sequence_MaxIt: 10
+  secondStage_PSOpop: 5
+  secondStage_MaxIt: 10
+  numRepSamples: 0.1
+  rand_index_flag: False 
+  outputpath: "/home/iman/projects/My_Projects/python_projects/Diagnosing_Diabetes/results/result.txt"
+  targetField: "Outcome"
+
+  
+
+
+
+
+
